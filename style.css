@@ -1,0 +1,218 @@
+#nav_bar{
+	
+	
+
+}
+
+#nav_bar .nav_bar_top{
+	height: 40px;
+	padding-left: 144px;
+	padding-right: 144px;
+}
+
+#nav_bar .nav_bar_top .bbc_logo{
+
+	display: block;
+	float: left;
+	padding: 9px 8px 9px 0;
+}
+
+#nav_bar .nav_bar_top .bbc_logo img{
+	width: 84px;
+	height: auto;
+}
+
+#nav_bar .nav_bar_top ul.list{
+	list-style: none;
+	float: left;
+	height: 40px;
+}
+
+#nav_bar .nav_bar_top ul.list li{
+	float: left;
+	height: 40px;
+}
+
+
+#nav_bar .nav_bar_top ul.list a{
+	text-decoration: none;
+	color: black;
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 40px;
+	width: 100%;
+	height: 40px;
+}
+
+#nav_bar .nav_bar_top ul.list .sign_in{
+	padding-right: 80px;
+	border-left: solid;
+	border-width: 1px;
+	padding-left: 15px;
+	height: 40px;
+}
+
+#nav_bar .nav_bar_top ul.list .news{
+	padding: 0 16px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list .sport{
+	padding: 0 16px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list .weather{
+	padding: 0 16px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list .iplayer{
+	padding: 0 16px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list .tv{
+	padding: 0 16px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list .rad{
+	padding: 0 16px 0 16px;
+}
+}
+
+#nav_bar .nav_bar_top ul.list .more{
+	padding: 0 40px 0 16px;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover{
+	text-decoration: none;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover.sign_in{
+	border-bottom-color: #1188BB;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover.news{
+	border-bottom-color: #992211;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover.sport{
+	border-bottom-color: #FFEE11;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover.weather{
+	border-bottom-color: #88CCEE;
+}
+
+#nav_bar .nav_bar_top ul.list a:hover.iplayer{
+	border-bottom-color: #ED3D7D;
+}
+
+#nav_bar .nav_bar_middle{
+	height: 55px;
+	background: #BB1919;
+	padding-left: 144px;
+	padding-right: 144px;
+
+}
+
+#nav_bar .nav_bar_middle img{
+	height: 30px;
+	width: auto;
+	float: left;
+	display: block;
+	padding-right: 500px;
+}
+
+#nav_bar .nav_bar_bottom{
+	height: 35px;
+	padding-left: 144px;
+	padding-right: 144px;
+	background: #A91717;
+
+}
+
+#nav_bar .nav_bar_bottom ul.list_2{
+	list-style: none;
+	float: left;
+}
+
+#nav_bar .nav_bar_bottom ul.list_2 li{
+	float: left;
+}
+
+#nav_bar .nav_bar_bottom ul.list_2 a{
+	text-decoration: none;
+	color: #fff;
+	padding: 0 5px 0 5px;
+	font-size: 13px;
+}
+
+#nav_bar .nav_bar_bottom ul.list_2 a:hover{
+	border-bottom-style: solid;
+	border-bottom-width: 3px;
+	border-bottom-color: white;
+}
+
+#content{
+	
+}
+
+.container{
+	margin-left: 144px;
+	padding-left: 0px;
+	margin-right: 144px;
+	padding-right: 0px;
+}
+
+#content h1{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 28px;
+	font-weight: bold;
+
+}
+
+#content .para_1 p{
+	padding-right: 0px;
+	padding-right: 0px;
+}
+
+#content .row_2 .troops_img{
+	float: left;
+	padding-bottom: 18px;
+}
+
+#content h2{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#content h3{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#content h4{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#content .row_1 .top_left .troop{
+	margin-top: 20px;
+}
+
+#content .row_1 .top_left .hsbc{
+	margin-top: 20px;
+}
+
+#content .row_1 .top_left .tory{
+	margin-top: 20px;
+}
+
+#content h5{
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
